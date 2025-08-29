@@ -1,0 +1,9 @@
+odoo>=15.0,<16.0
+odoo-addon-mgmtsystem-hazard
+odoo-addon-mgmtsystem-action
+odoo-addon-mgmtsystem-audit
+xmlrpc2
+psycopg2-binary
+pillow
+reportlab
+python-dateutil
